@@ -4,6 +4,5 @@
     <img src="https://i.imgflip.com/1smd7y.jpg" alt="hi guys" class="inline"/>
    </a> 
     
-<a href="https://join.slack.com/t/zatek/shared_invite/MjEzNjE0NjgwMDk4LTE1MDAyNzk1MzktZDA5MmU3N2FhMQ">
-    <h1>CLICK HERE FOR THE REAL DEAL.</h1>
-   </a> 
+
+    <h1>CLICK IMAGE FOR THE REAL DEAL.</h1>
